@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+torchaudio
+transformers
+pillow
+accelerate
+sentencepiece
+safetensors
